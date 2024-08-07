@@ -25,3 +25,7 @@ sudo xattr -rd com.apple.quarantine
 Drag and drop the app into the terminal and it will automatically replenish the path where the app is located.
 
 And then enter your password.
+
+# PR Welcome
+
+Welcome to PR a developer-signed version.
